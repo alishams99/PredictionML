@@ -13,7 +13,7 @@ The dataset provided for demonstration purposes contains only 1000 rows of the m
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repository.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/alishams99/PredictionML.git`.
 2. Navigate to the project directory.
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 
