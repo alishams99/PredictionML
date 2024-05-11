@@ -8,6 +8,7 @@ from joblib import dump
 file_path = "balance_data.xlsx"
 df = pd.read_excel(file_path)
 
+# columns's name
 X = df[["Location", "Occupation", "Activity", "Employment Status", "Gender", "Incident Type", "Day vs Night", "Province"]]
 y = df["Nature of injury"]
 
