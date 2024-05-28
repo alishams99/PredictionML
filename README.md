@@ -31,7 +31,6 @@ Each script accepts parameters or configuration files for customization. Refer t
 ## Results
 
 Below are the performance metrics achieved by each model on the provided dataset:
-
 - Gaussian Naive Bayes: [42%]
 - Random Forest: [91%]
 - Standard Scaler: [70%]
